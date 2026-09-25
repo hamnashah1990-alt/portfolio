@@ -6,7 +6,7 @@ Portfolio II)**.
 
 ## Live Site
 
-🔗 **GitHub Pages:** `https://<your-github-username>.github.io/portfolio/`
+🔗 **GitHub Pages:** https://github.com/hamnashah1990-alt/portfolio
 
 ## Pages
 
